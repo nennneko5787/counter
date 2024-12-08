@@ -1,0 +1,4 @@
+fastapi[all]
+discord.py
+asyncpg
+python-dotenv
